@@ -104,7 +104,7 @@
 102,/glade/scratch/negins/ctsm_0110/src/unit_test_shr,unittestTimeManagerMod.F90,ctsm_UnitTestTimeManager.F90,unittestTimeManagerMod,ctsm_UnittestTimeManager
 103,/glade/scratch/negins/ctsm_0110/src/unit_test_shr,unittestWaterTypeFactory.F90,ctsm_UnitTestWaterTypeFactory.F90,unittestWaterTypeFactory,ctsm_UnitTestWaterTypeFactory
 104,/glade/scratch/negins/ctsm_0110/src/biogeochem,CNSharedParams.F90,ctsm_CNSharedParams.F90,CNSharedParams,ctsm_Ctsm_CNSharedParams
-105,/glade/scratch/negins/ctsm_0110/src/biogeochem,EDBGCDyn.F90,ctsm_EDBGCDyn.F90,EDBGCDyn,ctsm_EDBGCDyn
+105,/glade/scratch/negins/ctsm_0110/src/biogeochem,EDBGCDyn.F90,ctsm_EDBiogeochemDyn.F90,EDBGCDyn,ctsm_EDBiogeochemDyn
 106,/glade/scratch/negins/ctsm_0110/src/biogeochem,MEGANFactors.F90,ctsm_MeganFactors.F90,MEGANFactors,ctsm_MeganFactors
 107,/glade/scratch/negins/ctsm_0110/src/biogeochem,DynConsBiogeochem.F90,ctsm_DynConsBiogeochem.F90,DynConsBiogeochem,ctsm_DynConsBiogeochem
 108,/glade/scratch/negins/ctsm_0110/src/biogeochem,CNFireLi2014.F90,ctsm_CNFireLi2014.F90,CNFireLi2014,ctsm_CNFireLi2014
@@ -259,7 +259,7 @@
 257,/glade/scratch/negins/ctsm_0110/src/biogeophys,SurfaceResistanceMod.F90,ctsm_SurfaceResistance.F90,SurfaceResistanceMod,ctsm_SurfaceResistance
 258,/glade/scratch/negins/ctsm_0110/src/biogeophys,SaturatedExcessRunoffMod.F90,ctsm_SaturatedExcessRunoff.F90,SaturatedExcessRunoffMod,ctsm_SaturatedExcessRunoff
 259,/glade/scratch/negins/ctsm_0110/src/biogeophys,WaterBalanceType.F90,ctsm_WaterBalanceType.F90,WaterBalanceType,ctsm_WaterBalanceType
-260,/glade/scratch/negins/ctsm_0110/src/biogeophys,UrbBuildTempOleson2015Mod.F90,ctsm_UrbBuildTempOleson2015.F90,UrbBuildTempOleson2015Mod,ctsm_UrbBuildTempOleson2015
+260,/glade/scratch/negins/ctsm_0110/src/biogeophys,UrbBuildTempOleson2015Mod.F90,ctsm_UrbanBuildTempOleson2015.F90,UrbBuildTempOleson2015Mod,ctsm_UrbanBuildTempOleson2015
 261,/glade/scratch/negins/ctsm_0110/src/biogeophys,HydrologyNoDrainageMod.F90,ctsm_HydrologyNoDrainage.F90,HydrologyNoDrainageMod,ctsm_HydrologyNoDrainage
 262,/glade/scratch/negins/ctsm_0110/src/biogeophys,SnowSnicarMod.F90,ctsm_SnowSnicar.F90,SnowSnicarMod,ctsm_SnowSnicar
 263,/glade/scratch/negins/ctsm_0110/src/biogeophys,SoilWaterMovementMod.F90,ctsm_SoilWaterMovement.F90,SoilWaterMovementMod,ctsm_SoilWaterMovement
