@@ -46,7 +46,7 @@
 44,/glade/scratch/negins/ctsm_0110/src/main,histFileMod.F90,ctsm_HistFile.F90,histFileMod,ctsm_HistFile
 45,/glade/scratch/negins/ctsm_0110/src/main,reweightMod.F90,ctsm_Reweight.F90,reweightMod,ctsm_Reweight
 46,/glade/scratch/negins/ctsm_0110/src/main,atm2lndMod.F90,ctsm_Atm2Lnd.F90,atm2lndMod,ctsm_Atm2Lnd
-47,/glade/scratch/negins/ctsm_0110/src/main,ncdio_utils.F90,ctsm_NcdIoUtils.F90,ncdio_utils,ctsm_NcdIoUtils.F90
+47,/glade/scratch/negins/ctsm_0110/src/main,ncdio_utils.F90,ctsm_NcdIoUtils.F90,ncdio_utils,ctsm_NcdIoUtils
 48,/glade/scratch/negins/ctsm_0110/src/main,GridcellType.F90,ctsm_GridcellType.F90,GridcellType,ctsm_GridcellType
 49,/glade/scratch/negins/ctsm_0110/src/cpl/mct,clm_cpl_indices.F90,clm_cpl_indices.F90,clm_cpl_indices,clm_cpl_indices
 50,/glade/scratch/negins/ctsm_0110/src/cpl/mct,lnd_import_export.F90,lnd_import_export.F90,lnd_import_export,lnd_import_export
@@ -96,12 +96,12 @@
 94,/glade/scratch/negins/ctsm_0110/src/soilbiogeochem,SoilBiogeochemNitrogenStateType.F90,ctsm_SoilBiogeochemNitrogenStateType.F90,SoilBiogeochemNitrogenStateType,ctsm_SoilBiogeochemNitrogenStateType
 95,/glade/scratch/negins/ctsm_0110/src/soilbiogeochem,SoilBiogeochemDecompMod.F90,ctsm_SoilBiogeochemDecomp.F90,SoilBiogeochemDecompMod,ctsm_SoilBiogeochemDecomp
 96,/glade/scratch/negins/ctsm_0110/src/soilbiogeochem,SoilBiogeochemVerticalProfileMod.F90,ctsm_SoilBiogeochemVerticalProfile.F90,SoilBiogeochemVerticalProfileMod,ctsm_SoilBiogeochemVerticalProfile
-97,/glade/scratch/negins/ctsm_0110/src/unit_test_shr,unittestSimpleSubgridSetupsMod.F90,ctsm_UnitTestSimpleSubgridSetups.F90,unittestSimpleSubgridSetupsMod,ctsm_UnittestSimpleSubgridSetups
+97,/glade/scratch/negins/ctsm_0110/src/unit_test_shr,unittestSimpleSubgridSetupsMod.F90,ctsm_UnitTestSimpleSubgridSetups.F90,unittestSimpleSubgridSetupsMod,ctsm_UnitTestSimpleSubgridSetups
 98,/glade/scratch/negins/ctsm_0110/src/unit_test_shr,unittestFilterBuilderMod.F90,ctsm_UnitTestFilterBuilder.F90,unittestFilterBuilderMod,ctsm_UnitTestFilterBuilder
 99,/glade/scratch/negins/ctsm_0110/src/unit_test_shr,unittestUtils.F90,ctsm_UnitTestUtils.F90,unittestUtils,ctsm_UnitTestUtils
 100,/glade/scratch/negins/ctsm_0110/src/unit_test_shr,unittestSubgridMod.F90,ctsm_UnitTestSubgrid.F90,unittestSubgridMod,ctsm_UnitTestSubgrid
 101,/glade/scratch/negins/ctsm_0110/src/unit_test_shr,unittestGlcMec.F90,ctsm_UnitTestGlcMec.F90,unittestGlcMec,ctsm_UnitTestGlcMec
-102,/glade/scratch/negins/ctsm_0110/src/unit_test_shr,unittestTimeManagerMod.F90,ctsm_UnitTestTimeManager.F90,unittestTimeManagerMod,ctsm_UnittestTimeManager
+102,/glade/scratch/negins/ctsm_0110/src/unit_test_shr,unittestTimeManagerMod.F90,ctsm_UnitTestTimeManager.F90,unittestTimeManagerMod,ctsm_UnitTestTimeManager
 103,/glade/scratch/negins/ctsm_0110/src/unit_test_shr,unittestWaterTypeFactory.F90,ctsm_UnitTestWaterTypeFactory.F90,unittestWaterTypeFactory,ctsm_UnitTestWaterTypeFactory
 104,/glade/scratch/negins/ctsm_0110/src/biogeochem,CNSharedParams.F90,ctsm_CNSharedParams.F90,CNSharedParams,ctsm_CNSharedParams
 105,/glade/scratch/negins/ctsm_0110/src/biogeochem,EDBGCDyn.F90,ctsm_FatesBiogeochemDyn.F90,EDBGCDyn,ctsm_FatesBiogeochemDyn
@@ -176,7 +176,7 @@
 174,/glade/scratch/negins/ctsm_0110/src/init_interp,initInterpMultilevelCopy.F90,ctsm_InitInterpMultilevelCopy.F90,initInterpMultilevelCopy,ctsm_InitInterpMultilevelCopy
 175,/glade/scratch/negins/ctsm_0110/src/init_interp,initInterp1dData.F90,ctsm_InitInterp1dData.F90,initInterp1dData,ctsm_InitInterp1dData
 176,/glade/scratch/negins/ctsm_0110/src/init_interp,initInterpMultilevelInterp.F90,ctsm_InitInterpMultilevelInterp.F90,initInterpMultilevelInterp,ctsm_InitInterpMultilevelInterp
-177,/glade/scratch/negins/ctsm_0110/src/init_interp,initInterpMindist.F90,ctsm_InitInterpMinDist.F90,initInterpMindist,ctsm_InitInterpMindist
+177,/glade/scratch/negins/ctsm_0110/src/init_interp,initInterpMindist.F90,ctsm_InitInterpMinDist.F90,initInterpMindist,ctsm_InitInterpMinDist
 178,/glade/scratch/negins/ctsm_0110/src/init_interp/test/initInterpMultilevel_test,multilevel_interp_factory.F90,ctsm_MultilevelInterpFactory.F90,multilevel_interp_factory,ctsm_MultilevelInterpFactory
 179,/glade/scratch/negins/ctsm_0110/src/biogeophys,SurfaceHumidityMod.F90,ctsm_SurfaceHumidity.F90,SurfaceHumidityMod,ctsm_SurfaceHumidity
 180,/glade/scratch/negins/ctsm_0110/src/biogeophys,UrbanRadiationMod.F90,ctsm_UrbanRadiation.F90,UrbanRadiationMod,ctsm_UrbanRadiation
@@ -240,7 +240,7 @@
 238,/glade/scratch/negins/ctsm_0110/src/biogeophys,BandDiagonalMod.F90,ctsm_BandDiagonalSolver.F90,BandDiagonalMod,ctsm_BandDiagonalSolver
 239,/glade/scratch/negins/ctsm_0110/src/biogeophys,GlacierSurfaceMassBalanceMod.F90,ctsm_GlacierSurfaceMassBalance.F90,GlacierSurfaceMassBalanceMod,ctsm_GlacierSurfaceMassBalance
 240,/glade/scratch/negins/ctsm_0110/src/biogeophys,UrbanAlbedoMod.F90,ctsm_UrbanAlbedo.F90,UrbanAlbedoMod,ctsm_UrbanAlbedo
-241,/glade/scratch/negins/ctsm_0110/src/biogeophys,Wateratm2lndType.F90,ctsm_WaterAtm2LndType.F90,Wateratm2lndType,ctsm_Wateratm2lndType
+241,/glade/scratch/negins/ctsm_0110/src/biogeophys,Wateratm2lndType.F90,ctsm_WaterAtm2LndType.F90,Wateratm2lndType,ctsm_WaterAtm2LndType
 242,/glade/scratch/negins/ctsm_0110/src/biogeophys,TemperatureType.F90,ctsm_TemperatureType.F90,TemperatureType,ctsm_TemperatureType
 243,/glade/scratch/negins/ctsm_0110/src/biogeophys,WaterType.F90,ctsm_WaterType.F90,WaterType,ctsm_WaterType
 244,/glade/scratch/negins/ctsm_0110/src/biogeophys,SurfaceAlbedoMod.F90,ctsm_SurfaceAlbedo.F90,SurfaceAlbedoMod,ctsm_SurfaceAlbedo
@@ -249,7 +249,7 @@
 247,/glade/scratch/negins/ctsm_0110/src/biogeophys,BalanceCheckMod.F90,ctsm_BalanceCheck.F90,BalanceCheckMod,ctsm_BalanceCheck
 248,/glade/scratch/negins/ctsm_0110/src/biogeophys,RootBiophysMod.F90,ctsm_RootBiophys.F90,RootBiophysMod,ctsm_RootBiophys
 249,/glade/scratch/negins/ctsm_0110/src/biogeophys,SoilHydrologyType.F90,ctsm_SoilHydrologyType.F90,SoilHydrologyType,ctsm_SoilHydrologyType
-250,/glade/scratch/negins/ctsm_0110/src/biogeophys,Waterlnd2atmBulkType.F90,ctsm_WaterLnd2AtmBulkType.F90,Waterlnd2atmBulkType,ctsm_Waterlnd2atmBulkType
+250,/glade/scratch/negins/ctsm_0110/src/biogeophys,Waterlnd2atmBulkType.F90,ctsm_WaterLnd2AtmBulkType.F90,Waterlnd2atmBulkType,ctsm_WaterLnd2AtmBulkType
 251,/glade/scratch/negins/ctsm_0110/src/biogeophys,EnergyFluxType.F90,ctsm_EnergyFluxType.F90,EnergyFluxType,ctsm_EnergyFluxType
 252,/glade/scratch/negins/ctsm_0110/src/biogeophys,PhotosynthesisMod.F90,ctsm_Photosynthesis.F90,PhotosynthesisMod,ctsm_Photosynthesis
 253,/glade/scratch/negins/ctsm_0110/src/biogeophys,SoilMoistStressMod.F90,ctsm_SoilMoistStress.F90,SoilMoistStressMod,ctsm_SoilMoistStress
